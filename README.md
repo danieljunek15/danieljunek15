@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on ... A web aplication UI 
+- 🔭 I’m currently working on ... A web aplication for my company called Flitserz with Laravel and Tailwindcss
 - 🌱 I’m currently learning ... Laravel, PHP, Javascript, tailwindcss
 - 👯 I’m looking to collaborate on ... Coding projects
 - 🤔 I’m looking for help with ... learning Laravel
