@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... learning Laravel
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... linkedin.com/in/daniël-van-den-brink-4a21651a3
-- 😄 Pronouns: ... Don't care 'Apache helicopter'
 - ⚡ Fun fact: ... I'm a good cook :D
 
